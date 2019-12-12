@@ -98,4 +98,4 @@ Check the following link for video explanation:
 [![](http://img.youtube.com/vi/cwH21ezOV5w/0.jpg)](http://www.youtube.com/watch?v=cwH21ezOV5w "Video Explanation")
 
 
-[Link to Jupyter Notebook](https://github.com/sheldonsebastian/American-Time-Use-Analysis/blob/master/American%20Time%20Use%20Survey%20Analysis.ipynb)
+[Link to Jupyter Notebook](https://github.com/sheldonsebastian/American-Time-Use-Survey-Analysis/blob/master/American%20Time%20Use%20Survey%20Analysis.ipynb)
