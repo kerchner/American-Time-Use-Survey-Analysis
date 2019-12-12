@@ -12,15 +12,15 @@ In ATUS, individuals are randomly selected from a subset of households that have
 The major purpose of ATUS is to develop nationally representative estimates of how people spend their time. The *inspiration* behind this project analysis is to understand how daily activities differ by employment status, income, gender, etc.
 
 
-## 5. Analysis
+## Analysis
 
-### 5.1. Which is most performed activity based on Time spent and Frequency of doing it?
+### 1. Which is most performed activity based on Time spent and Frequency of doing it?
 
 ![](images/fig1.png)
 
 Based on the above bar chart we notice, that most time spent doing an activity is work or work-related activities, followed by personal care activities which include grooming tasks, followed by education category which includes learning or taking classes, followed by socializing and relaxing activities.
 
-### 5.2. On the basis of activities, where do respondents spend most of their time?
+### 2. On the basis of activities, where do respondents spend most of their time?
 
 ![](images/fig2.png)
 
@@ -30,13 +30,13 @@ Based on the above pie chart we notice, that the most frequent activity is Trave
 
 On examining the above pie chart we learn that respondents perform a majority of activities at home, followed by driving in a vehicle, being at the workplace, being at someone else's home.
 
-### 5.3. How do respondents spend their time based on employment status?
+### 3. How do respondents spend their time based on employment status?
 
 ![](images/fig4.png)
 
 From the above subplot, we notice that employed respondent spends most of their time doing work-related activities, whereas an unemployed respondent spends most of their time doing personal care activities. We also notice that unemployed respondents spend significant amount of time doing volunteering activities.
 
-### 5.4. How do respondents in different industries spend their time?
+### 4. How do respondents in different industries spend their time?
 
 ![](images/fig5.png)
 
@@ -44,7 +44,7 @@ From the above charts, we notice that all industries have the top 3 activities a
 
 We also observe that respondents from mining and hospitality industries spend more time working in comparison to other industries.
 
-### 5.5. How do respondents spend their time, and with whom based on marital status?
+### 5. How do respondents spend their time, and with whom based on marital status?
 
 ![](images/fig6.png)
 
@@ -54,19 +54,19 @@ We notice that respondents who have never been married spend most of their time 
 
 Based on above subplots we notice that Widowed respondents spend most of their time alone. Married respondents spend majority of their time with household kids and spouse. Never married respondents spend most of their time alone followed by time spent with their parents.
 
-### 5.6. How do respondents in different income categories spend their time?
+### 6. How do respondents in different income categories spend their time?
 
 ![](images/fig8.png)
 
 From the above charts, we notice that people who earn less than 10,000 dollars annually spend most of their time on personal activities and the least time on work-related activities. Also, the top 5 activities of Work, Personal Care, Education, Socializing and Sports are common for respondents who earn between 25,000 to 150,000. People who earn more than 150,000 dollars have volunteering activities instead of socializing activities in their top 5 activities.
 
-### 5.7. How do respondents in different age categories spend their time?
+### 7. How do respondents in different age categories spend their time?
 
 ![](images/fig9.png)
 
 On examining the above subplots we learn that the top 5 activities based on age category are Work, Personal care, socializing, education and volunteering activities. We notice that respondents above 60 years don't do a lot of sports and exercise. Also, respondents below 30 years spend the highest amount of time in education and don't do a lot of socializing/ relaxing activities.
 
-### 5.8.  How do respondents spend their time, and with whom do they spend it based on gender?
+### 8.  How do respondents spend their time, and with whom do they spend it based on gender?
 
 ![](images/fig10.png)
 We observe that work, personal care, education, socializing are common for both men and women as their top activities, but men have sports activities as one of their top activities whereas women have volunteering activities as one of their top activities.
